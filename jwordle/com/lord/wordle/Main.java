@@ -11,7 +11,7 @@ public class Main {
 	public static void main(String args[]) {
 		
 		if(args.length > 1) {
-			System.out.println("Usage: -jar jworlde.jar <MMFile path/Optional>\n"
+			System.out.println("Usage: -jar jwordle.jar <MMFile path/Optional>\n"
 					+ "If a file name is given, one will be created, if it does not\n"
 					+ "already exist. Otherwise, you can freely play on your own.");
 			return;

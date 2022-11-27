@@ -2,9 +2,9 @@
 ## Simple Wordle game made in Java
 ## THE GAME HAS BEEN DEVELOPED FOR A UNIVERSITY PROJECT AND IS OF NON-COMMERCIAL USE
 ### **Echipa:**
-* Musat Fabian
-* Pascu Ioan
-* Uta Mario
+* Musat Fabian Grupa 144
+* Pascu Ioan Grupa 144
+* Uta Mario Grupa 144
 ### Descriere
 JWordle reprezinta o implementare simpla a cunoscutului joc Wordle. Limbajul Java a fost ales pentru usurinta de a dezvolta aplicatii cross-platform si pentru utilitatile incluse precum Swing si AWT. JSolver a fost implementat utilizand trei "algoritmi" diferiti. 
 + Random alege in mod aleator un cuvant valabil. Numarul de incercari medii este foarte mare.

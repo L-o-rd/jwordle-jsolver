@@ -12,6 +12,8 @@ JWordle reprezinta o implementare simpla a cunoscutului joc Wordle. Limbajul Jav
 + Cummulative Product este un algoritm asemanator, ce foloseste statistica. Acesta a fost implementat deoarece este mult mai rapid, dar putin mai slab. Ideea se bazeaza pe frecventa literelor de pe fiecare pozitie si calculeaza produsul cumulativ dintre "erorile" patratice ale acestor frecvente. Media incercarilor este de 5.97.
 #### Running
 The release package contains two (tested) options: Windows and Linux (Ubuntu latest LTS).
++ Pentru a rula aplicatia veti avea nevoie de doua terminale sau de rularea simultana a ambelor comenzi.
++ Un terminal ruleaza jocul, iar altul ruleaza solver-ul, deoarece sunt doua programe diferite.
 ##### Windows
 Se poate folosi `command prompt/cmd` sau `powershell`.
 * 1. Deschiderea `cmd` in folder-ul ce contine package-ul extras.
